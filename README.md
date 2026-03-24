@@ -1,2 +1,2 @@
-# testing
+# using git repo
 #branching
